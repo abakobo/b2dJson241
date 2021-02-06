@@ -1,7 +1,8 @@
 # b2djson241
 json loader/saver for box2d 2.4.1
 
-oririginal by Chris Campbell (iforce2d)
+original by Chris Campbell (iforce2d) modified by abakobo for box2d 2.4.1 compatibility
+
 
 This software is provided 'as-is', without any express or implied
 * warranty.  In no event will the authors be held liable for any damages
